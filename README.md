@@ -1,3 +1,7 @@
+## Docker
+docker pull tinkerdeep/allinone:gpu
+
+
 ## Intro
 
 The purpose of this little project is to add object tracking to yolov2 and achieve real-time multiple object tracking.
